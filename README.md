@@ -5,9 +5,7 @@
 
 <!-- body -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poetsen+One&size=30&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&lines=%E2%9A%99%EF%B8%8F+STACKS+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poetsen+One&size=50&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&repeat=false&lines=%EF%A3%BF)](https://git.io/typing-svg)
 
 ## TOOLS 🔧
 
