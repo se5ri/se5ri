@@ -39,6 +39,18 @@
 </a>
 </div>
 
+<br/>
+<div align="center">
+   <a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/733351063188179970/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
+</div>
+
 ## Solved.ac 📈
 
 <div align="center">
