@@ -52,3 +52,12 @@
     </a>
 </div>
 
+</div> 
+
+## NOTION 📃
+
+<div align="center">
+  
+[se5ri's NOTION](https://www.notion.so/18fbbaaf3b0a8002ba67f480b1b49a3b?source=copy_link)
+
+</div>
