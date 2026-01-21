@@ -23,10 +23,18 @@
 ## GitHub stats 😊
 
 <div align="center">
-  
-![se5ri's GitHub stats](https://github-readme-stats.vercel.app/api?username=se5ri&show_icons=true&theme=radical)
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=se5ri&show_icons=true&theme=radical"
+    width="420"
+     height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=se5ri&layout=compact&theme=radical"
+    width="420"
+     height="170"
+  />
 </div>
+
 
 ## 🐧 Git Animals
 
